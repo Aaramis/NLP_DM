@@ -1,0 +1,406 @@
+Model : SVM, and Preprocessing : Sans chiffres + (1,3)gram
+
+#A noter que les exemples de test sont ordonnés mais pas les exemples d'apprentissages choisis au hasard
+#L'ordre observé ici n'a donc pas influencé l'apprentissage
+
+Estimate    True Value    Text sample
+0    0    plot : two teen couples go to a church party , drink and then drive . 
+0    0    and now the high-flying hong kong style of filmmaking has made its way down to the classics , and it isn't pretty . 
+0    0    she was the femme in " la femme nikita . " 
+0    0    the law of crowd pleasing romantic movies states that the two leads must end up together by film's end . 
+0    0     " spawn " features good guys , bad guys , lots of fighting , bloody violence , a leather-clad machine gun chick , gooey , self-healing bullet holes , scatological humor and a man-eating monster . 
+0    0     " in dreams " might keep you awake at night , but not because of its creepy imagery , bizarre visual style or story about a clairvoyant madman who lures young girls to their untimely deaths . 
+0    0    play it to the bone , the newest addition to ron shelton's sports - themed repertoire fails in numerous ways . 
+0    0    some movies i should just skip . 
+0    0    sean connery stars as a harvard law professor who heads back into the courtroom , by way of the everglades , to defend a young , educated black man ( blair underwood ) . 
+0    0    among multitude of erotic thrillers , that had been released in the early 1990s , woman of desire is interesting only because it was directed by robert ginty , star of the b-grade action films of the previous decade . 
+0    0    a pseudo-intellectual film about the pseudo-intellectual world of art magazines , high art is as wasted as its drug-addled protagonists . 
+0    0    one of the responses those that enjoy " detroit rock city " ( probably kiss fans , mostly ) might have upon first glance at the rating i've given the film might be something like : " oh , that casey's gone and become a jaded critic on us . 
+0    0    has it really been two decades since walter matthau coached the bad news bears ? 
+0    0    supposedly based on a true story in which the british drive to build a rail bridge deep in africa grinds to a halt after a pair of lions start killing off the workers in 1898 . 
+0    0    louie is a trumpeter swan with no voice . 
+0    0    would you believe -- in real life , i mean -- that if you were julia roberts , that you'd be the ugly underdog to your sister , the creepy catherine zeta-jones ? 
+0    0    movie reviewers have an obligation to see the good , the bad , and the despicable . 
+0    0    susan granger's review of " the watcher " ( universal ) 
+0    0    edward burns tackles his third picture with no looking back , and like his previous two , it is a working-class relationship picture . 
+0    0    it's now the anniversary of the slayings of julie james' ( jennifer love hewitt ) best friends . 
+1    0    a documentary from the twin hughes brothers , allen and albert ( dead presidents , menace ii society ) , about street pimps , all of whom are african-american . 
+1    0     " love to kill " starts off aimlessly and gets progressively less coherent as time passes . 
+0    0    based on the 1960s tv series that i had never seen or heard of before this movie ( be happy , i won't bore you with any lame and unnecessary comparisons ) , this film allows will smith to take a third stab at the independence day weekend box-office , after scoring huge successes with men in black ( 7/10 ) , directed by the same man who controlled this one , and independence day ( 6/10 ) . 
+0    0     * * * the following review contains spoilers * * * 
+0    0    the happy bastard's quick movie review 
+0    0    forget get carter . 
+0    0     " something is fishy in the state of universal . " 
+0    0    i never understood what the clich ? " hell on earth " truly meant until very recently . 
+0    0     " showgirls " is the first big-budget , big-studio film to receive an nc-17 rating . 
+0    0    seen may 2 , 1998 at 3 : 40 p . m . at the crossgates cinema 18 , theater #13 , with chris wessell and sean o'shea for $5 . 
+0    0    jean-claude van damme movies tend to be , if nothing else , a lot of mindless fun . 
+0    0     " desperate measures " is a generic title for a film that's beyond generic . 
+0    0    ever watch a very young child try and tell a joke that is beyond his , or her , sophistication ? 
+0    0    it's always a bad sign when the core audience of a film -- children -- are either walking out early or are half-asleep when the credits roll at the end of a film . 
+1    0    young einstein is embarrassingly lame , but that didn't stop it from becoming a phenomenon in australia , where it became the third largest box office hit of all time . 
+0    0    this is the last carry on film with its almost intact regular cast and it is the swansong of hattie jacques and sid james . 
+0    0    i wish i could accurately describe the theme music for part 3 . 
+0    0    for " original sin , " the road to the screen has been rocky . 
+0    0    the rich legacy of cinema has left us with certain indelible images . 
+0    0    last summer , a feature-length version of the avengers hit theaters to the tune of a unanimous critical panning . 
+0    0    plot : token director alan smithee steals the only copy of his film " trio " from the studio , after they complete the " final cut " without him . 
+0    0    the stereotypical american male has an undeniable fetishistic love of sports cars . 
+0    0    it's amazing how a comedian can have the some of the funniest stand-up around but completely fall flat in the movies . 
+1    0    at times , you'd think edtv would be an entertaining film . 
+0    0     " an intimate , character-driven drama about a troubled youth at a crossroads in his life , " read the press notes for _reach_the_rock_ . 
+0    0    vampire's is a rude , chauvinistic movie where women are portrayed as pawns of abuse , present only to pleasure men , feed vampires , readied to be bashed or beaten - till one's sensibilities is shocked by the low iq and mentality of this regressive movie . 
+0    0    a sensuous romantic comedy , about as appealing as your average lightweight tv sitcom . 
+0    0    i suppose it's unfair to criticize a movie like hudson hawk , which has been panned by reviewers and moviegoers alike since it's 1991 release . 
+0    0    if there were a subject just screaming to be made into a film , it was studio 54 , the late steve rubell's infamous new york discotheque , which came to symbolize the taboo-smashing excesses of the disco era's heyday : easy drugs and even easier sex between everyone , all set to a thumping dance beat . 
+0    0    as you should know , this summer has been less than memorable . 
+1    0    it would be hard to choose the best american political thriller . 
+0    0    the great actor james woods once said ( and i'm paraphrasing ) , " if sex isn't messy , then you're not doing it right " . 
+0    0    the premise of turbulence is i'm sure very familiar to us all . 
+0    0    in the series of the erotic thrillers that flooded the videoshelves in the early 1990s came this french-canadian co-production by max fischer . 
+0    0    here i sit at my computer about to write my review of the recent action comedy " bait " starring jamie foxx and david morse . 
+0    0    tv's buffy finds herself on the other side of the supernatural spectrum in " simply irresistible . " 
+0    0    when i first saw the preview for cruel intentions , i turned to my friend and said , " dangerous liaisons for kids ! " 
+0    0    your first clue that something isn't gonna be quite right with the movie you're about to see : it's heavily christmas-themed and its release date is , oh , say , at the end of february . 
+0    0    here's something to chew on : what's the favorite food of big , cheesy-looking special effects monsters like the one lurking in the bowels of a luxury liner in deep rising ? 
+0    0    this is an adaptation of h . g . wells' acclaimed novel 'the invisible man' . 
+1    0    because no one demanded it : david duchovny in a romantic comedy ! 
+0    0     " come on , silent bob ! 
+1    0    i can't recall a previous film experience where the fairly good time i was having turned as sour as quickly as it did during feeling minnesota . 
+0    0    wolfgang petersen's latest , the perfect storm , is like a pineapple . 
+0    0    depending on who you ask , the original sin was either the eating of the apple , the act of disobedience against god , or the act of betrayal . 
+0    0    adam sandler vehicles are never anything special , but continue to make a load of money . 
+0    0    if you have ever seen fox tv's special car chase programs , you'll have a good idea about the content of ronin , the new action " thriller " from director john frankenheimer . 
+0    0    can you say " dated " ? 
+1    0     " the 44 caliber killer has struck again . " 
+0    0    what do you get when you rip-off good movies like woody allen's bananas and martin scorsese's after hours ? 
+0    0    capsule : dumb dud of an entry in the body heat sweepstakes , and now something of a landmark for having spawned a jillion clones . 
+0    0    capsule : gal is a 50s-ish london cockney gangster who has retired to spain . 
+0    0    you would think that this film's dismal failure would be due to american filmmakers getting hold of a brilliant british comedy and " americanizing " it . 
+0    0    it should have been a classic . 
+0    0     " holy man " boasts a sweet , gentle , comic performance from an unusually subdued eddie murphy and a few moderately funny skits . 
+0    0    surrounded by hype , high hopes , and the promise of an over-the-top performance by clueless's brittany murphy , don't say a word looked full of promise . 
+0    0    breakdown is an moderately entertaining , if underwhelming , thriller . 
+0    0    ripe with explosions , mass death and really weird hairdos , tsui hark's " double team " must be the result of a tipsy hollywood power lunch that decided jean-claude van damme needs another notch on his bad movie-bedpost and nba superstar dennis rodman should have an acting career . 
+1    0    i was recently told that in china their had been strong protests against the release of red corner  and this is apparently because of the way it shows the injustice of many chinese laws . 
+0    0    not so long ago , men by the names of peckinpah , ford , leone , and eastwood made westerns . 
+0    0    can a horror movie truly be called a horror movie if it has no scares , suspense , or even eerie elements ? 
+0    0    capsule : this super-light situation comedy from sweden tells the story of two close friends with romantic problems . 
+0    0     " spawn " may be somewhat of an older film . 
+0    0    it's time to take cover . 
+0    0    the above is dialogue from this film , taken almost completely in context , and not jazzed up a bit to make it more inept than it is . 
+0    0     " ladybugs " is a typical comedy that relies on three supposed guarantees : the pathetic team who beats the champs ; cross dressing ; and the presence of rodney dangerfield . 
+0    0    based on the novel set in 1914 by joseph conrad , victory spins a tale of a pair of lovers , heyst ( william dafoe ) and alma ( irene jacob ) , who seek refuge on heyst's isolated island . 
+0    0    a couple of criminals ( mario van peebles and loretta devine ) move into a rich family's house in hopes of conning them out of their jewels . 
+0    0    the makers of spawn have created something almost as vacuous as this summer's other comic book adaptation , batman and robin . 
+0    0    phaedra cinema , the distributor of such never-heard-of classics as " soft toilet seats , " " trailer : the movie , " and " the one armed boxer vs . the flying guillotine , " has sneaked its latest release , " the sculptress , " into a few theaters this weekend hoping to cash in on a handful of halloween holidaygoers looking for a right good scare . 
+0    0    the word to describe sharon stone is " wonder " . 
+1    0    in double jeopardy , the stakes are high . 
+0    0    running time approximately 1hr 40mins 
+0    0    the " fab 4 " of ronald reagan high are four stuck-up girls , played by rose mcgowan , rebecca gayheart , julie benz and charlotte roldan , who overdress like 4 posh spice wannabes . 
+0    0    i have a great idea for a movie , one that can't miss . 
+0    0    when critics attack seemingly well-intentioned films like patch adams or more recently pay it forward as i am about to do , their opinions are often greeted with a backlash of angry e-mails , sometimes even mock death threats from those who ( i suppose ) like to be shamelessly manipulated by their entertainment . 
+0    0    the u . s . army utilizes a number of books known as field manuals which stipulate the specific way in which almost every action imaginable must be done . 
+0    0    in the finale of disney's " mighty joe young , " a 15-foot tall , 2000-pound gorilla holds a frightened young boy in its clutches as it topples from a crippled ferris wheel and plummets to the ground . 
+0    0    this film is worth seeing for those who want to see what mick jagger looks like when sporting an abe lincoln beard . 
+0    0    synopsis : easily-angered , chainsmoking architect david encounters his homicidal first wife diedre five years after their divorce . 
+0    0    well , what are you going to expect ? 
+0    0    if the 70's nostalgia didn't make you feel old , the 80's nostalgia is bound to . 
+0    0    what are the warning signs of a * terrible * movie ? 
+1    0    saw an advanced screening of the movie sniper last night , and i have to say i wasn't too impressed . 
+0    0    1989's " major league " was a delightful surprise . 
+0    0    one of the indicator of badness in film is the hype being remembered more than film itself . 
+0    0    let's get this one over with as quickly as possible . 
+0    0    here's a rarity : a children's film that attempts to tackle a weighty subject , is there a god ? 
+1    0    i have never been so confused after watching a movie . 
+0    0    well arnold has completed the seemingly impossible task . 
+0    0    apparently , when crap calls , jim carrey answers . 
+0    0    michael richards leaves his spot as kramer on the infamous seinfeld tv sitcom for a stint as a lanky , goofy best friend to jeff daniels' lawyer character in this ill-fated , and unfunny , " comedy " . 
+0    0     " we are grateful that we have the songs of grace chan to comfort us . " 
+0    0    what happens when you put martin lawrence in a fat suit in real life ? 
+0    0    i love movies . 
+0    0    the formula is simple . 
+0    0    the thirteenth floor is a bland , obligatory exercise in genre film-making . 
+0    0    i think maybe it's time for the batman series to be put to rest . 
+0    0    8mm is not going to enlighten your day . 
+0    0    synopsis : original " jurassic park " survivor alan grant ( neill ) is tricked by paul and amanda kirby ( macy and leoni ) into leading an expedition to an island overrun by dinosaur , to rescue their stranded son . 
+0    0    the characters in jonathan lynn's " the whole nine yards , " yet another in an endless recent string of mob comedies ( 1999's " analyze this " and " mickey blue eyes , " 2000's " gun shy " ) , are rarely ever written as real people , but merely as one-dimensional caricatures . 
+0    0    take two old and dying men , a lifetime of regrets , a house full of sins , a thoroughly despicable man , enough lies , insecurities and other character defects to keep a team of psychiatrists gainfully employed , then add a inexplicable meteorological and amphibian-based phenomenon and you will have summed up magnolia , the newest film from paul thomas anderson ( boogie nights ) . 
+0    0    the ads make " hanging up " seem like an upbeat comedy about a rascally father and his three daughters . 
+0    0    back in february at the monthly los angeles comic book and science fiction convention , new line cinema put on a lavish presentation for its big-screen update of the cult 1960s sci-fi tv show lost in space , complete with in-person appearances by cast members mimi rogers , matt leblanc , lacey chabert , jack johnson , and even gary oldman . 
+0    0    i have never seen a man so in love with himself than george lucas . 
+0    0    filmmakers will use all manner of tricks to flesh out and brighten up a dull , dreary , and overused idea . 
+0    0     " be gentle , " urges natasha henstridge to matthew perry in " the whole nine yards . " 
+0    0     " flubber " is the second best example of how to take all the life out of a film remake an adaptation , and hysterically enough both were distributed by disney . 
+0    0    what's to like about the world of extremely violent trash pornography--ie . 
+0    0    200 cigarettes takes place on new year's eve 1981 . 
+0    0     " i seem to have glued myself . . . 
+0    0    new address . 
+0    0    tri-star ; rated r ( language , sexual situations , violence ) ; 87 minutes 
+0    0     " with all that education , you should know what happiness is . " 
+0    0    senseless is a prime example of what can happen when you try to push a one-joke concept a bit too far . 
+0    0    i have a confession . 
+0    0    capsule : five friends at a stag party are involved in the accidental killing of a prostitute . 
+0    0    what hath kevin williamson wrought ? 
+0    0    there have been merchant-ivory costume dramas with more of a pulse than " the mod squad , " a self-consciously " hip " cinematic rendering of the old tv series still looked upon fondly by so many baby-boomers . 
+0    0     " saving silverman " is a good example of a good comedy gone bad . 
+0    0    one of my brother's favorite movies is h . b . halicki's 1974 cult flick " gone is sixty seconds , " one of the best products of the car-chase genre that provided drive-in fare during the 1970's . 
+0    0    1 . he doesn't have a hard-to-decipher accent , 2 . he doesn't always speak in a monotone , and 3 . 
+0    0    any remake of an alfred hitchcock film is at best an uncertain project , as a perfect murder illustrates . 
+0    0    house on haunted hill ( 1999 ) starring taye diggs , geoffrey rush , ali larter , famke janssen , peter gallagher , bridgette wilson , max perlich , lisa loeb , james marsters , and chris kattan . 
+0    0    fit for a ghoul's night out , fat girl stands cast iron firm with the simplistic , fatuous , built-in excuse that its woman director is baring the harsh sexual realities of adolescent girls . 
+0    0    well , here's a distasteful , thoroughly amateurish item that , surprisingly , was actually a box-office hit at the time of its release . 
+0    0    okay , i just don't know why , but i seem to be getting this diversion to disney-made real-life actors movies . . . as 
+0    0    after 1993's " falling down , " i hoped that joel schumacher would mature into a great director . 
+0    0     " nothing more than a high budget masturbation fantasy " 
+0    0    some movies ask you to leave your brain at the door , some movies ask you to believe in the impossible to really have a good time . 
+0    0    tim burton has now completed his evolution from the brilliant director of macabre stories about outcast individuals yearning for acceptance , and into a studio monkey whose name is used as part of multi-tiered marketing materials for crap movies . 
+0    0    chris tucker is one of those guys you immediately get a reaction from -- you either find his helium voice , crazy eyes and jerky mannerisms funny or annoying . 
+0    0    cashing in on the success of white men can't jump and the failure of most of their solo vehicles ( including the cowboy way and drop zone ) , wesley snipes and woody harrelson have reteamed , hoping that they can strike up the same success . 
+1    0    girl 6 is , in a word , a mess . 
+0    0    when a film is produced on a shoestring budget by a couple of hardworking filmmakers and when it tells the story of a genuine tragedy , the easy path for a reviewer who hated the movie is to give it a pass . 
+1    0    in this year's summer movie preview issue of _entertainment_weekly_ , theresa connelly described her writing-directing debut , _polish_wedding_ , as " a child that did not quite become the child i thought it would . " 
+1    0    several days after having seen this movie , i'm still trying to determine what director christopher guest , a man whose sense of humor i usually appreciate , found funny in either the concept or the execution of almost heroes . 
+0    0    the general's daughter is a heartless , absurd film , a movie so hopelessly dedicated to its inane plot that it forgets entirely about its own characters . 
+0    0    it used to be that not just anyone could become a vampire . 
+0    0    it happens every year -- the days get longer , the weather gets warmer and the studios start releasing their big-budget blockbusters . 
+0    0    this is the first film in what would become the most successful series of horror films of all time . 
+0    0    there's a good , and timely , story trapped deep within the excess of murder in the first , a new movie about the abuses of our prison system . 
+0    0    for his directoral debut , gary oldman chose a highly personal family drama about a violent , alcoholic husband and father , and the various lives he affects . 
+0    0    i am a steven seagal fan . 
+0    0    we're back in blade runner territory with this one , conceptual artist robert longo's vision of a william gibson-inspired future where information is the commodity to kill for . 
+0    0    director andrew davis reworks his fugitive formula and the results are about as exciting as his last film-- the dreadful comedy steal big , steal little-- was funny . 
+0    0     " meg ryan is irresistible in the comedy that celebrates sisterhood ! , " 
+0    0    brian de palma's snake eyes stars nicolas cage's evil twin , who confusingly uses the same stage name as his talented brother . 
+0    0    a movie about divorce and custody in 1995 seems about as timely as a movie about mood rings . 
+0    0    synopsis : in " sooner than you think " america , the future of law enforcement resides in blade squad , a ragtag group of culturally diverse rollerblading cops with jetpacks strapped on their backs . 
+0    0    to put it bluntly , ed wood would have been proud of this . 
+0    0    making your first feature film ain't easy . 
+0    0    the corruptor is a big silly mess of an action movie , complete with pointless plot turns and gratuitous violence . 
+0    0     " return to horror high , " wants to be a couple different types of movies at once . 
+0    0    this talky , terribly-plotted thriller stars alec baldwin as dave robicheaux , an ex-new orleans cop who gets ensnared in a murder- mystery after a light-plane crashes into the bayou beside his fishing boat . 
+0    0    spoiled rich kid kelley morse ( chris klein ) receives a new mercedes for a graduation present . 
+0    0    depending on your degree of cinematic acumen , last man standing is either a ) a prohibition-era remake of akira kurosawa's 1961 classic yojimbo ; b ) a prohibition-era remake of sergio leone's 1964 classic a fistful of dollars ; c ) a prohibition-era action drama with a completely original story-line . 
+0    0    there may not be a critic alive who harbors as much affection for shlock monster movies as i do . 
+0    0    renee zellweger stars as sonia , a young jewish wife and mother frustrated by the constraints of her hasidic community in brooklyn . 
+0    0    it's a good thing most animated sci-fi movies come from japan , because " titan a . e . " is proof that hollywood doesn't have a clue how to do it . 
+0    0    writing a screenplay for a thriller is hard . 
+0    0    teenagers have a lot of power in hollywood . 
+0    0    ah , and 1999 was going along so well , too . 
+0    0    a number of critics have decided that it's open season on freddie prize jr . , slamming the young actor as an utterly talentless pretty boy on career cruise control in sound-alike , disposable teen fluff like " head over heels , " " boys and girls , " " down to you " and " she's all that . " 
+0    0    martial arts master steven seagal ( not to mention director ! ) has built a career out of playing an allegedly fictitious martial arts superman who never gets hurt in fights , talks in a hushed tone , and squints at any sign of danger . 
+0    0    _soldier_ is hands down one of the worst movies a person could ever have to sit through that doesn't have jean claude van damme in it . 
+0    0    post-chasing amy , a slew of love-triangle movies : this month we have kissing a fool , co-starring amy's own lee , and april brings us the object of my affection , which may as well be titled chasing allan , for it is the story of a woman who falls in love with her gay roommate . 
+0    0    yet another brainless teen flick , this one is about , surprise , drugs and sex . 
+0    0    `bats' is an insulting slap across the face for any dedicated horror movie fan . 
+0    0     " virus " is a monster movie without a monster . 
+0    0    humanities quest for knowledge never ends . 
+0    0    absolute power , the new film produced and directed by clint eastwood , attempts to be a thriller set in the world of hypocritical presidents and their murderous political staff . 
+0    0    robin hood : men in tights is another mel-brooks-produced film in the classic tradition of movies like blazing saddles and young frankenstein . 
+0    0    director luis mandoki's last film was the superb , serious 1994 drama " when a man loves a woman , " but his luck has ultimately run out with his latest picture , " message in a bottle , " which is the worst type of romance , a movie that tugs so relentlessly and violently at the heartstrings that it miraculously manages to dry out your eyes rather than tear them up . 
+0    0    i remember really enjoying this movie when i saw it years ago . 
+0    0    boy , what a great movie ! ! 
+0    0    salaries of hollywood top actors are getting obscenely large these days and many find this to be the main reason for skyrocketing movie budgets . 
+0    0    if anything , " stigmata " should be taken as a warning against releasing similarly-themed films relatively close to one another . 
+0    0    there was a time when john carpenter was a great horror director . 
+0    1    films adapted from comic books have had plenty of success , whether they're about superheroes ( batman , superman , spawn ) , or geared toward kids ( casper ) or the arthouse crowd ( ghost world ) , but there's never really been a comic book like from hell before . 
+1    1    the american action film has been slowly drowning to death in a sea of asian wire-fu copycats . 
+1    1    i've noticed something lately that i've never thought of before . 
+1    1    synopsis : bobby garfield ( yelchin ) lives in a small town with his mirthless widowed mother ( hope davis ) . 
+0    1    there's something about ben stiller that makes him a popular choice among casting directors these days . 
+0    1    for those of us who weren't yet born when the 1960's rock 'n' rolled around , monterey pop affords an affectionate glimpse of the music that influenced our parents to be hippies . 
+1    1    seen may 31 , 1999 on home video ( rented ) . 
+1    1    the event of events is upon us . 
+1    1    what do you get when you slap together a movie based on a story by the legendary george lucas , directed by virtuoso director steven spielberg , and starring one of the biggest box-office stars in the world , harrison ford ? 
+1    1    the computer-animated comedy " shrek " is designed to be enjoyed on different levels by different groups . 
+0    1    hollywood has really done the whole dracula thing to death ( no pun intended - honest ) . 
+1    1    close your eyes for a moment , if you will , and imagine the sound of stephen rea's gaelic brogue , silky smooth and irish like a pint of guinness . 
+1    1    zero effect gets its title from the main character , daryl zero ( bill pullman ) , although we don't understand what it truly means until the very last line of dialogue in the film . 
+0    1    the long kiss goodnight ( r ) meryl streep tried it and failed . 
+1    1    well , i know that stallone is 50 years old now , but in daylight he doesn't look it ! 
+1    1    blade is the movie that shows that wesley snipes really can live up to his potential as one of hollywood's premier leading men . 
+1    1    no film in recent has left me with such conflicted feelings as neil jordan's harrowing , humorous , horrifying adaptation of patrick mccabe's novel about young lad francie brady's ( eamonn owens ) descent into madness in 1960s ireland . 
+1    1    since 1990 , the dramatic picture has undergone a certain change of style . 
+1    1    wild things is a suspenseful thriller starring matt dillon , denise richards , and neve campbell that deals with all the issues ; sex , love , murder , and betrayal . 
+1    1    james l . brooks , one of the developers of the simpsons and director of broadcast news , returns to the big screen with this entertaining , if slightly flawed comedy . 
+1    1    i think that any competent member of the human race who's ever seen a movie--any movie--could probably predict just about every turn in the wedding singer . 
+1    1    plot : a bunch of bad guys dressed up as elvis impersonators rob a vegas casino during a presley convention . 
+0    1    plot : a human space astronaut accidentally falls upon a planet ruled by apes . 
+1    1    in brief : best bleak comedy film since heathers . 
+0    1    i have to say it . 
+1    1    seen may 19 , 1999 at 5 p . m . at the crossgates cinema 18 ( guilderland , n . y . ) , theater #1 , with my brother john for $8 . 50 . 
+1    1    warren beatty returns to the screens in the funniest , craziest and hard hitting movie in his career . 
+1    1     " i've been told by several people , 'you're old fashioned . 
+1    1    with storytelling this compelling , who needs books ? 
+1    1    synopsis : committed to an asylum , the marquis de sade ( rush ) continues to publish pornographic literature , aided by young maid madeleine ( winslet ) . 
+0    1    with his last two films - shine and snow falling on cedars - australian director scott hicks has proven his cinematic flashbacks to be some of the best out there , and his latest , hearts in atlantis , is no different . 
+1    1    note : some may consider portions of the following text to be spoilers . 
+1    1    no filmmaker deconstructs a story as well as atom egoyan . 
+1    1    i know what i would do with $4 . 4 million if i found it in a previously undiscovered airplane crash site , especially if i were with jacob and lou . 
+1    1    in some regards , making a movie is like trying to stretch a rubber band as far as you can without breaking it . 
+1    1    it's a fact that a good thriller or action movie doesn't need violence to be good or worth watching . 
+1    1    being that it is a foreign language film with no known names with a select number theaters showing it , " shall we dance " won't be seen by that many people . 
+1    1    the caveman's valentine starring samuel l . jackson , ann magnuson , aunjanue ellis , tamara tunie screenplay by george dawes green , based on his novel directed by kasi lemmons 
+0    1    expand the final fifteen minutes of home alone into a feature-length film and you've got baby's day out--an agreeably amusing children's comedy about a bumbling band of kid kidnappers who are unwittingly outwitted by an innocent infant . 
+1    1    well , i'll admit when i first heard about this film ( which was before dante's peak ) i could just smell what 'twister' had started . 
+1    1    near the end of frank capra's holiday classic , its a wonderful life , george bailey ( jimmy stewart ) is feeling down . 
+1    1     " six days , seven nights " is a summer movie that gets the summer movie experience deliciously right , a commendable achievement considering the season thus far has been littered with some pretty uneven fare . 
+1    1    there was a lot riding on this movie . 
+1    1    perhaps it's time for me to say a little about my reading habits . 
+0    1    upon arriving at the theater during the opening credits , i took my seat and prepared myself for what appeared to be " hellraiser meets the crow " . 
+1    1    kadosh means sacred in hebrew . 
+1    1    most people fit into two different categories : you either love woody allen , or you hate his guts . 
+1    1    that's the question i asked myself when venturing nervously into " the wedding singer , " the latest film to star the saturday night live alumnus . 
+0    1    richard linklater's " slacker , " made in 1991 for a budget of only $23 , 000 , immerses itself in the twentysomething , college-town culture of austin , texas . 
+0    1     " a breed apart " casts rutger hauer as a crazy , bird-loving recluse who picks his feathered friends over kathleen turner . 
+1    1    one way of telling if a film is good or not is by the length . 
+1    1    this is a film about secrets , some that are innocent like those of a cute little farm girl , frances boyd ( ashley ) . 
+1    1    `oh behave ! 
+1    1    trailing the success of brit humour in the movie industry with the likes of the semi-dramatic the commitments and the nearly slapstick a fish called wanda , the full monty is one film which delivered the depth of the former and the humour magnitude of the latter . 
+1    1    notting hill's trailer is awful : a laughless , schmaltzy montage . 
+1    1    the muppet movie is the first , and the best movie among the ever-growing list of muppet movies . 
+1    1    it is simply amazing how " the green mile " developed in its three hour running time . 
+1    1    the jekyll and hyde story told from his maid's point of view is , in a word , " dark " . 
+0    1    aggressive , bleak , and unrelenting film about an interracial couple , steve and sam ( damon jones and elexa williams respectively ) , who are viciously attacked in a parking garage one night by a gang of skinheads . 
+1    1    people who enjoy science fiction are often faced with unpleasant surprises due to the improper labelling of novels , stories , comic books or movies . 
+1    1    matthew broderick and high school comedy . 
+1    1    if he doesn=92t watch out , mel gibson is in danger of being known as someone other than mad max . 
+1    1    the full monty is a whole lot of fun , its wacky , witty , and original . 
+1    1    it must be some sort of warped critical nightmare : the best movie of the year would be a summer vehicle , a jim carrey vehicle at that . 
+1    1    produced by robert lantos & stephen j . roth 
+1    1    like the wonderful 1990 drama , " awakenings , " starring robin williams and robert de niro , " at first sight , " directed by irwin winkler , is inspired by a true story documented by physicfirst sight , " directed by irwin winkler , is inspired by a true story documented by physician oliver sacks . 
+0    1    do you want to know the truth about cats and dogs ? 
+1    1    martin scorsese's kundun , which chronicles roughly the first twenty years of the life of the currently exiled dalai lama , has been criticized for its lack of narrative structure . 
+1    1    with the abundance of trite , recycled movies in the late '90s , there is a tremendous demand by movie lovers ( never mind movie critics ) for movies that present the wide film audience with something truly original : perhaps audaciously , perhaps purely thematically . 
+1    1    contrary to the title , " the boxer " is not another rocky story only this time spliced with some cold hard politics . 
+1    1    titanic is , without a doubt , the best movie i've seen all year . 
+1    1    there's a moment in schindler's list when a number of jews are trudging through snow , clean and crisp , dark edges and frost on the ground . 
+1    1    in tim burton's `sleepy hollow' , there is a mysterious headless horseman who decapitates residents of the small town of the same name . 
+1    1    there was a huge crowd - so many over 100 people could not be admitted - at a premiere screening of " the nephew " ( first screening with a major general audience admittance ) . 
+1    1    plot : odin is a great high school basketball player . 
+1    1    the year is 1962 and the military is conducting nuclear testings . 
+1    1    _in brief : _ this film needs no introduction . 
+1    1    in some respects , rush hour is the ultimate exercise in cliched filmmaking . 
+1    1    countries and legal systems that take the rule of law principle seriously , had forbidden judges and juries to make judgements in all matters that could involve them personally . 
+1    1    frequency n . , 
+1    1     " psycho meets the exorcist with no holds barred " . 
+1    1    disney cements their place in the forefront of feature animation with the release of their latest animated adventure , mulan . 
+0    1    the rich man's wife is one of those movies like final analysis or body double , where the story and characters are so one-dimensional and contrived that you know you shouldn't be enjoying yourself . 
+1    1    on april 12th , 1912 , the most astonishing shipwreck in the history of the world occurred . 
+0    1    based on the relatively unknown ( in comparison to spider-man ) marvel comic book , blade tells the story of half-vampire half-human ( played by wesley snipes ) who was born of a vampire's latest meal . 
+1    1    david cronenberg presents us with another strange tale crawling out of his impressively twisted head . 
+1    1    scarface , a remake of the 1932 film of the same name , is a very gripping and , as far as i know , a true-to-life story of how power and violence lead to corruption . 
+1    1    david mamet has long been my favorite screenwriter and director . 
+1    1    when casting the key part of the voice of moses , most people's first candidate would probably not be the controversial actor val kilmer ( the saint and the island of dr . 
+1    1    a costume drama set in the 1500s , england , elizabeth is a lush , romantic , political masterpiece about the upset over the crossing of a protestant queen from a respected catholic one . 
+1    1    a sci fi/comedy starring jack nicholson , pierce brosnan , annette benning , glenn close , martin short and other stars . 
+1    1    rated : r for strong language , sexual dialogue , drug use , crude humor , violence and brief nudity . 
+0    1    50's `aliens vs . 
+1    1    susan granger's review of " the perfect storm " ( warner bros . ) 
+1    1    when quentin tarantino made " pulp fiction " , he was not only making the greatest film of the 90s ; he was also making what i believe to be the most influential movie of all time . 
+1    1    there's some movies i enjoy even though i know i probably shouldn't and have a difficult time trying to explain why i did . 
+1    1    are we victims of fate in life or can we create our own destiny ? 
+1    1    krippendorf's tribe is a formula comedy . 
+1    1    not since 1996's shine , which starred geoffrey rush as pianist david helfgott , has a movie so defiantly laid bare the lives of world-class musicians . 
+1    1    many people will not find much to like in what dreams may come , the new film by visionary director vincent ward . 
+1    1    nosferatu the vampyre ( germany 1979 ) 
+1    1    ingredients : london gal , fate , true love , running joke about monty python's spanish inquisition 
+1    1    james jones , one of the major novelists from the middle of the twentieth century , has written a number of fictional works about the effects of war on the individual . 
+1    1    the heartbreak kid ( reviewed on aug . 26th/1998 ) 
+1    1    don't let the following quirks of this review , fool you into believing that this movie is anything short of an ultimate labour of love . 
+1    1    after the simple looking little spacecraft lands in a automobile wrecking yard , out steps a steel-gray , human-like creature with aquamarine eyes and clad in a muscular suit . 
+0    1    there's good news and bad news about mulan . 
+1    1    oh god how many john grisham lawyer films we have been munundated with ! 
+1    1    susan granger's review of " hearts in atlantis " ( castle rock/warner bros . ) 
+1    1    after a rather disappointing " mary railly " , stephen frears is now officially back in business with a comeback worthy of praise . 
+1    1    with many big-budget science fiction films , great ideas are often wasted by bad scripts , cheesy plot twists , and , terrible acting . 
+0    1    warning ! : may contain some mild spoilers and offensive material . 
+1    1    it stands as a moment one will not soon forget : a giant , green ogre flips through the pages of a cliche fairy tale , narrating it with every bit of dull inspiration that the story holds . 
+1    1    jamaica is a hot vacation spot . 
+1    1    denzel washington is among the many actors this holiday season to give very impressive milestone performances . 
+1    1    [note : after claiming otherwise , my appetite was indeed whetted by kenneth branagh's hamlet to search out other attempts to translate shakespeare to film in hopes of finding a better mousetrap . 
+1    1    the happy bastard's quick movie review 
+1    1    for this review and more , visit clear illusions ( www . clearillusions . com ) 
+1    1    kevin smith is like a big kid . 
+1    1    review : ghost dog : the way of the samurai ( 1999 ) 
+1    1    i've never been a huge fan of jeff bridges , but i loved him in the big lebowski . 
+1    1    us critic-type people are always shaking our heads and telling everyone that movies aren't thrill rides , but i think that " back to the future ii " is one of the few exceptions . 
+1    1    it was a crazy time in france , what with the french revolution right around the corner . 
+0    1    what surprises me most about the long-awaited batman is that the movie centers not on the caped crusader but on the joker . 
+1    1    casting " doogie howser " star neil patrick harris as mind-reading military intelligence is only one of the guilty pleasures of " starship troopers , " a hugely entertaining , mega-budgeted sci-fi yarn directed by paul verhoeven , who's making quite a recovery from his 1995 g-string epic " showgirls . " 
+0    1    we all know the fate of " child's play , " which is the same for almost any film these days that does marginally well financially : sequel hell . 
+1    1    in `enemy at the gates' , jude law is a gifted russian sniper made hero by a political officer named danilov ( joseph fiennes ) who uses him in a propaganda newspaper to raise the hopes of the soldiers and people of stalingrad . 
+1    1    james cmaeron's breakthrough feature was the first of his films to showcase his obsession with technology and more specfically technology run amok . 
+1    1     " a man is not a man without eight taels of gold . " 
+0    1    jacques tati's 1953 classic " les vacances de m . hulot " ( also known as " mr . hulot's vacation , " in english ) ought to be the textbook on how to do non ? dialogue comedy in film . 
+1    1    the opening crawl tells us that the galaxy is in turmoil over the taxation of trade routes , and the greedy trade federation has used it's armada of powerful space battleships to blockade the planet naboo . 
+1    1    renown surrealist director , the 77-year-old frenchman alain resnais ( hiroshima , mon amour/last year at marienbad/m ? lo ) , has created a lighthearted musical played as an homage to britisher dennis potter and his pennies from heaven ( 1978 tv serial , 1981 movie ) and the singing detective ( 1986 ) . 
+1    1    'pleasantville' ( 1998 ) taps into hollywood's lack of integrity with subtle messages that can be easily missed 
+1    1    another 'independent film' , this comedy , which was brought by miramax for $5 million , is good fun . 
+1    1    seen september 5 , 1998 at 10 p . m . at the sony nickelodeon theaters ( boston , ma ) , theater #2 , with matt perreault for free using my sony/loews critic's pass . 
+1    1    the characters in " palmetto " collectively sweat enough to fill lake erie , and it's just the right way to capture the film's ripe atmosphere of sensuality , tension and even farce . 
+1    1    with the sudden liberal emergence of personal privacy abounding in the news lately , what with that whole clinton thing going on ( you know , 100 million bucks to discover the president got boinked by an intern - oh , please , government , waste my taxes just a bit more , would you ? ) , 
+1    1    `run lola run' , a german import that gained a stellar reputation at the sundance film festival , is a dazzling and kinetic film that deals with the subjects of fate and chance . 
+1    1    while watching " shallow grave , " i found myself periodically noticing thematic similarities to the coens' " blood simple . " 
+1    1    it's not often that i laugh so hard at a movie that my head hurts . 
+0    1     " a private matter " is based on the true story of sherri finkbine and the events in her life during the 1960s . 
+0    1    sam ( matthew broderick ) is an astronomer in a small american town and engaged to teacher linda ( kelly preston ) . 
+1    1    copyright 1996 graeme huggan carry on henry is all about henry viii and his eight wives ! 
+1    1     ( warning to those who have not seen seven : this review contains some spoiler information . ) 
+1    1    it is easy to see why the late stanley kubrick believed steven spielberg would be the perfect director for his a . i . 
+1    1    the party is one of those classic slapstick comedies that will leave you , at times , cracking up . 
+1    1    in a flashback , the teenage girl in the eccentric family in the canadian film , the hanging garden , tells her senile grandmother that she is going to a school dance . 
+1    1    devotees of robert a . heinlein , be forewarned : paul verhoeven's starship troopers is less an adaptation of heinlein's novel than it is a literary satire . 
+1    1    every once in a while you see a film that is so effective in delivering the goods that it is easy to forget , and forgive , its glaring imperfections . 
+0    1    when a someone journeys to the theater to see a comedy , he always risks having to sit through inanity such as what we recently saw in films like edtv and office space . 
+1    1    i want to correct what i wrote last year in my retrospective of david lean's war picture . 
+0    1    cinema has been around for about a hundred years now . ? 
+1    1    it's no secret in the motion picture industry that the relationship between a script and the actors involved often makes or breaks a movie at the box office . 
+1    1    when andy leaves for cowboy camp , his mother holds a yard sale and scrounges in his room for old toys . 
+1    1    ingredients : lost parrot trying to get home , friends 
+1    1    veteran actor clint eastwood has never looked as grizzled as he does in true crime , his latest directorial effort . 
+1    1    those of you who frequently read my reviews are not likely to be surprised by the fact that i have not read victor hugo's novel les miserables . 
+1    1    satirical films usually fall into one of two categories : 1 ) long-term satire where everything , including the jokes , is somehow related on a large scale ( i . e . 
+0    1    there must be some unwritten rule that states , one gets enlightenment not in the way one expects to get enlightenment but in the commitment given to seeking wisdom , even if it is a foolish road one is on and it seems to be leading nowhere . 
+1    1    driving miss daisy takes its sweet time to tell a small , intimate story . 
+1    1    seen april 16 , 1999 at 10 p . m . at crossgates cinema 18 ( guilderland , n . y . ) , theater #15 , by myself for free using my hoyts' critic's pass . 
+0    1    `strange days' chronicles the last two days of 1999 in los angeles . 
+1    1    seen february 15 , 1998 on home video ( borrowed from chris wessell ) . 
+0    1    the question isn't why has grease been reissued . 
+0    1    let's face it : since waterworld floated by , the summer movie season has grown * very * stale . 
+1    1    meet joe black is your classic boy-meets-girl , boy-likes-girl , boy-gets-killed-in-horrible-accident , supernatural-entity-takes-over-boy's-body , supernatural-entity-falls-in-love-with-girl story . 
+1    1    my summer was recently saved by two very different movies . 
+1    1    my filmcritic . com 
+1    1    mike myers , you certainly did throw us a ? frickin' bone here in what you call ? the biggest austin powers adventure yet . ' 
+1    1    it is with hesitance that i call " apocalypse now " a masterpiece . 
+1    1    not since attending an ingmar bergman retrospective a few years ago have i seen a film as uncompromising in its portrayal of emotional truth as secrets & lies . 
+1    1    after a successful run in australia last year , and with much critical praise heaped upon it , muriel's wedding opens into medium release this weekend in north america . 
+1    1    susan granger's review of " bread and tulips " ( first look pictures ) 
+1    1     " i know what you did last summer , " the first high-profile slasher thriller to be released after 1996's " scream , " and written by the same screenwriter , kevin williamson , is a stylish , effective horror film that became 1997's biggest hit of the fall season . 
+1    1    labelling is sometimes everything . 
+0    1    bob the happy bastard's quickie review : 
+1    1    the laserman : somehow the title of writer-director-producer peter wang's film conjures up images of superheroes , like ultraman and spiderman . 
+1    1    imagine this . 
+1    1    perhaps the most dramatic changes in the motion picture industry in this decade have to do with special effects . 
+1    1    robert altman's cookie's fortune is that rare movie that does not depend on sentimentality to be uplifting and to make its viewers feel good . 
+1    1    i actually am a fan of the original 1961 or so live-action-disney flick of the same name starring hayley mills twice as a pair of twins , separated at birth by divorcing parents , never to come in contact with the other so the parents never have to meet again . 
+1    1    review- peter jackson's the frighteners has received some notice for setting the record for most computer effects ever in a movie , and still coming in at the extremely cheap $30 million price tag . 
+1    1    plot : a dude and his brother are driving cross-country and decide to fool around with a trucker on their cb radio . 
+1    1    originally titled 'don't lose your head' , this parody of the scarlet pimpernel story was the first carry on to be produced by rank film productions . 
+1    1    ingredients : down-on-his-luck evangelist , church 
+1    1    the most amazing thing about paul cox's innocence is how unlike a movie it is . 
+0    1    contact is a film that tries to do several different things . 
+1    1    billy bob thornton , who had a sudden rise to fame with 1996's sling blade after spending years as a virtually unknown actor and writer , is becoming one of the most versatile - and most accomplished - american actors around at the moment . 
+1    1    tibet has entered the american consciousness slowly during the past few years and burst into the forefront recently . 
+0    1    synopsis : as a response to accusations of sexual prejudice in the armed forces , a female naval intelligence officer is chosen to be a test case . 
+1    1    steve martin took an extended vacation from all facets of moviemaking a few years back ; he spent this time writing essays and short stories for " the new yorker , " several of which wound up in his hilarious hardback compilation , pure drivel ( 1998 ) . 
+1    1    >from the man who presented us with henry : the portrait of a serial killer ( 6 . 5/10 ) 
+0    1    eddie murphy has had his share of ups and downs during his career . 
+0    1    cinematically speaking , gordon parks' original 1971 _shaft_ is not a great film . 
+1    1    marie ( charlotte rampling , " aberdeen " ) and jean ( bruno cremet , " sorcerer " ) are a comfortable , sixty-ish married couple looking forward to a peaceful vacation at their second home in lit et mix . 
+1    1    in this good natured , pleasent and easy going comedy , bill murray ( ghostbusters , 1984 ) plays grumpy weatherman phil conners , who , every year , is sent to punxsutawney , p . a , to report on groundhog day . 
+1    1    i rented this movie with very high hopes . 
+1    1    now that " boogie nights " has made disco respectable again ( well , fashionable at least ) , we shouldn't be surprised to see more films glorifying that dubious era . 
+1    1    i think the first thing this reviewer should mention is wether or not i am a fan of the x-files . 
+1    1    here is a film that is so unexpected , so scary , and so original that it caught me off guard and threw me for a loop . 
+1    1    plot : this movie takes place over one day . 
